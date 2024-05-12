@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "buzzer-music": "github:niklauslee/buzzer-music",
     "ir-receiver": "github:niklauslee/ir-receiver"
   }
 }
